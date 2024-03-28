@@ -1,0 +1,15 @@
+INSERT INTO nearest_delivery_point (nearest_point_adress, adress) VALUES 
+('point 3224', 'Уфа'),
+('point 407', 'Казань'),
+('point 2458', '864 Cherry St'),
+('point 596', '135 Walnut St'),
+('point 594', 'Москва'),
+('point 4016', '789 Oak St'),
+('point 2027', '246 Birch St'),
+('point 253', '456 Elm St'),
+('point 250', '654 Maple St'),
+('point 3182', '579 Pineapple St'),
+('point 363', '987 Cedar St'),
+('point 1868', '123 Main St'),
+('point 531', 'Санкт-Петербург'),
+('point 2060', '321 Pine St');
